@@ -1,2 +1,2 @@
 # techdegree-project4
-My 4th project - transfroming CSS into SASS
+My 4th project - transfroming CSS code into SASS
